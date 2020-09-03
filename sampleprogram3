@@ -1,0 +1,14 @@
+x = 0.0078125
+print x
+y = 0.00061
+print y
+a = x + y
+print a
+z = x * y
+print z
+a = 250.5
+b = 10.5
+c = a + b
+print a
+print b
+print c
