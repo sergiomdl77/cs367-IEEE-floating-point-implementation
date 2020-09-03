@@ -1,4 +1,19 @@
-This tar file contains the following files:
+This project is an implementation my personal implementation of the representation
+of the IEEE Floating Point Numbers.  The main purpose of this project is to be able
+to read an input number (in the human-readable floating point form) encoded into the
+IEEE floating point format (13-bit long for this project), and store such encoded number
+in an integer by using only the last 13 bits out of the 32 bits that comprise the integer.
+
+This is a school project for the Computer Systems and Programming (CS367) at GMU.  
+Several files where provided before hand in order to get started with this project. 
+What was required from me was to implement the functions that would be called when 
+an addition or multiplication of two floating point numbers was required.  
+
+The following is the explanation of what was provided by the course's professor as 
+the foundation for this project:
+
+
+"This tar file contains the following files:
    * fp.h  - header file with the 'representation' (# exponent & fraction bits)
    * fp_functs.c - function stubs that you will code
    * Makefile
@@ -15,5 +30,4 @@ Once you type 'make', you will also have:
    * all_values - executable assocaited with output_all_values
    * various .o files that you can ignore
 
-
-The only file you should be modifying is fp_functs.c
+The only file you should be modifying is fp_functs.c"
