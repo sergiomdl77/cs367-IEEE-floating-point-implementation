@@ -1,8 +1,8 @@
-This project is an implementation my personal implementation of the representation
-of the IEEE Floating Point Numbers.  The main purpose of this project is to be able
-to read an input number (in the human-readable floating point form) encoded into the
-IEEE floating point format (13-bit long for this project), and store such encoded number
-in an integer by using only the last 13 bits out of the 32 bits that comprise the integer.
+This project is my implementation of the representation of the IEEE Floating Point 
+Numbers.  The main purpose of this project is to be able to read an input number 
+(in the human-readable floating point form) encoded into the IEEE floating point 
+format (13-bit long for this project), and store such encoded number in an integer 
+by using only the last 13 bits out of the 32 bits that comprise the integer.
 
 This is a school project for the Computer Systems and Programming (CS367) at GMU.  
 Several files where provided before hand in order to get started with this project. 
