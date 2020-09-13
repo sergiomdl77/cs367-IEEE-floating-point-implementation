@@ -1,3 +1,5 @@
+cs367-IEEE-floating-point-implementation
+
 This project is my implementation of the representation of the IEEE Floating Point 
 Numbers.  The main purpose of this project is to be able to read an input number 
 (in the human-readable floating point form) encoded into the IEEE floating point 
