@@ -32,4 +32,4 @@ Once you type 'make', you will also have:
    * all_values - executable assocaited with output_all_values
    * various .o files that you can ignore
 
-The only file you should be modifying is fp_functs.c"
+I was required to create the file called: fp_functs.c"
